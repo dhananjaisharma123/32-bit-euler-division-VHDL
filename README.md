@@ -1,4 +1,4 @@
-# 32-bit-euler-division-VHDL
+# 32-bit-euclidean-division-VHDL
 The Euclidean algorithm is used for implementing the divider system as the operation is very
 intuitive.
 The design strategy used develop the system :-
